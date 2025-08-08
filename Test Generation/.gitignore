@@ -1,0 +1,16 @@
+__pycache__
+gemma3b-past-lora
+llama3.2-1B-past-lora
+llama3.2-past-lora
+Logs
+AssistiveTech_main.ipynb
+Capstone Project Update.docx
+Capstone Project Update.pdf
+dataset_prep.py
+past_fine_tuning_data.jsonl
+past_finetuning_data.jsonl
+screening_test.md
+test.py
+dataset_prep.py
+model_handler.py
+.DS_Store
